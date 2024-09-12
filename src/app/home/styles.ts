@@ -17,4 +17,8 @@ export const stylesHome = StyleSheet.create({
         backgroundColor: "#1D1F27",
         borderRadius: 8
     },
+    leftActions: {
+        flex: 1,
+        backgroundColor: "#E83D55",
+    },
 })
